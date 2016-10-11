@@ -8,13 +8,11 @@ npm install --save-dev eslint@3.7.0 eslint-config-hrundel
 
 ## Как использовать
 
-Для кода, исполняемого в Node.js в `package.json` добавляем:
+Для кода, исполняемого в Node.js добавить файл `.eslintrc.json`:
 
 ```json
 {
-	"eslintConfig": {
-		"extends": "hrundel/node"
-	}
+  "extends": "hrundel/node"
 }
 ```
 
@@ -22,18 +20,6 @@ npm install --save-dev eslint@3.7.0 eslint-config-hrundel
 
 ```json
 {
-	"eslintConfig": {
-		"extends": "hrundel/browser"
-	}
-}
-```
-
-Для кода на ES6:
-
-```json
-{
-	"eslintConfig": {
-		"extends": "hrundel/es6"
-	}
+  "extends": "hrundel/browser"
 }
 ```
