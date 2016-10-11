@@ -128,7 +128,7 @@ module.exports = {
     'computed-property-spacing': 'error',
     'eol-last': 'error',
     'indent': ['error', 4, { 'SwitchCase': 1 }],
-    'quotes': 'single',
+    'quotes': ['error', 'single'],
     'key-spacing': 'error',
     'keyword-spacing': 'error',
     'linebreak-style': ['error', 'unix'],
