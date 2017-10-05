@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:urfu-2016/eslint-config-hrundel.git"
+    "url": "git@github.com:urfu-2017/eslint-config-hrundel.git"
   },
   "files": [
     "base.js",
@@ -14,6 +14,6 @@
     "node.js"
   ],
   "peerDependencies": {
-    "eslint": "3.7.0"
+    "eslint": "4.8.0"
   }
 }

@@ -3,7 +3,7 @@
 ## Как установить
 
 ```bash
-npm install --save-dev eslint@3.7.0 eslint-config-hrundel
+npm install --save-dev eslint@4.8.0 eslint-config-hrundel
 ```
 
 ## Как использовать

@@ -11,4 +11,4 @@ module.exports = {
     'no-path-concat': 'error',
     'strict': ['error', 'safe']
   }
-}
+};

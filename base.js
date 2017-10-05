@@ -1,5 +1,8 @@
 module.exports = {
   root: true,
+  env: {
+    es6: true
+  },
   rules: {
     // Possible errors
     'no-cond-assign': 'error',
