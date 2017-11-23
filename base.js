@@ -3,6 +3,9 @@ module.exports = {
   env: {
     es6: true
   },
+  parserOptions: {
+    ecmaVersion: 2017
+  },
   rules: {
     // Possible errors
     'no-cond-assign': 'error',
